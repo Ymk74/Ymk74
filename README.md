@@ -31,8 +31,8 @@
     def __init__(self):
         self.name = 'Youssef Mohamed'
         self.title = 'Python Django | Junior Backend Developer'
-        #self.location = 'Cairo, Egypt'
-        #self.ides = ['VS Code']
+        self.location = 'Cairo, Egypt'
+        self.ides = ['VS Code']
         self.languages = ['Python','JavaScript']
         self.challenge = 'Practicing to improve my Problem Solving skill'
 
