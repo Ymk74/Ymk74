@@ -18,7 +18,7 @@
 
 
   
- <img align="right" width="500" alt="" src="https://github.com/Ahmedsaed/Ahmedsaed/blob/main/undraw_hello_re_3evm.svg" />
+ 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Junior+Back+end+Developer;Always+Learning+new+things;Django+Developer;&center=true&width=500&height=50"></a>
