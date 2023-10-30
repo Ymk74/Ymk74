@@ -90,25 +90,7 @@ if __name__ == '__main__':
 
 ###
 
-</br></br>
 
-<h2>:hammer_and_wrench: Tools I use</h2>
-<code><img title="Docker" alt="docker" width="40px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" /></code>
-<code><img title="PostMan" alt="postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /></code>
-<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="MySql" alt="mysql" width="60px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" /></code>
-<code><img title="Redis" alt="Redis" width="70px" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" /></code>
-<code><img title="Heroku" alt="Heroku" width="70px" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" /></code>
-
-<code><img title="AmazonWebServices" alt="AmazonWebServices" width="65px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /></code>
-<code><img title="SQLite" alt="SQLite" width="65px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" /></code>
-<code><img title="postgresql" alt="postgresql" width="60px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" /></code>
-<code><img title="Charts.js" alt="Charts.js" width="50px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
- 
- 
  </br></br>
  <hr>
 
